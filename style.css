@@ -1,0 +1,32 @@
+*{
+  overflow:hidden;
+}
+.home{ 
+  background-image:url('background.png');
+  width:100wv;
+  height:100vh;
+  background-size:cover;
+  background-position:center;
+}
+.omega{
+  background-color:blue;
+  width:100%;
+  height:100px;
+  position: static;
+  display:flex;
+}
+.gamma{
+  background-image:url('logo.png');
+  background-size:contain;
+  background-repeat:no-repeat;
+  width: 100px;
+  height:100px;
+}
+.ega{
+  background-color:#249FF9;
+  width: 164px;
+  height: 54px;
+  margin:auto 2rem;
+}
+
+
